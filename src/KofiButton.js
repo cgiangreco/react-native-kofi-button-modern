@@ -172,10 +172,13 @@ const styles = StyleSheet.create({
   iconWrap: {
     alignItems: "center",
     justifyContent: "center",
+    height: 24,
+    width: 24,
   },
   icon: {
-    height: 18,
-    width: 18,
+    height: 20,
+    resizeMode: "contain",
+    width: 20,
   },
   label: {
     color: "#ffffff",

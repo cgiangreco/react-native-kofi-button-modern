@@ -27,6 +27,10 @@ export default function App() {
 
 By default, the button renders as a floating pill near the bottom of the screen with an animated Ko-fi cup icon.
 
+Image preview:
+
+![Image preview](./assets/preview.svg)
+
 ## Props
 
 | Prop           | Type      | Default                 | Description                                                                |

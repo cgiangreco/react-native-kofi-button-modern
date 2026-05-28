@@ -1,0 +1,30 @@
+<svg width="760" height="140" viewBox="0 0 760 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="140" rx="20" fill="#1F1712"/>
+  <rect x="18" y="18" width="724" height="104" rx="26" fill="#2B1E17"/>
+  <rect x="18" y="18" width="724" height="104" rx="26" fill="url(#paint0_linear_1_1)" fill-opacity="0.14"/>
+  <g filter="url(#filter0_d_1_1)">
+    <path d="M60 56C60 49.3726 65.3726 44 72 44H78.9161C82.4971 44 85.8718 45.6046 88.1498 48.3732L89.5357 50.0574C91.053 51.9019 93.3142 52.9744 95.7026 52.9744H113.091C119.719 52.9744 125.091 58.347 125.091 64.9744V67.7692C125.091 74.3966 119.719 79.7692 113.091 79.7692H109.61C108.701 88.7732 101.103 95.7949 91.8622 95.7949H79.2308C68.4884 95.7949 59.7692 87.0758 59.7692 76.3333V56H60Z" fill="white"/>
+    <path d="M73.6808 49.5897H78.9161C80.8252 49.5897 82.6244 50.4455 83.8393 51.9228L85.2253 53.607C87.8073 56.7455 91.6532 58.5641 95.7026 58.5641H113.091C116.632 58.5641 119.501 61.434 119.501 64.9744V67.7692C119.501 71.3095 116.632 74.1795 113.091 74.1795H104.172L103.977 77.0041C103.408 85.2432 96.5514 91.3846 88.2928 91.3846H79.2308C71.5757 91.3846 65.359 85.1679 65.359 77.5128V56C65.359 52.4616 68.2267 49.5918 71.765 49.5897H73.6808Z" fill="#2F2B2A"/>
+    <path d="M88.3015 78.595C87.781 79.081 87.2894 79.524 86.8301 79.9226C82.8375 83.3855 79.198 85.0769 75.7335 85.0769C68.4321 85.0769 63.641 79.099 63.641 71.9487C63.641 66.1839 67.4116 61.8974 72.5492 61.8974C75.3917 61.8974 78.1118 63.3359 79.7593 65.63C81.4069 63.3359 84.1269 61.8974 86.9695 61.8974C92.1071 61.8974 95.8777 66.1839 95.8777 71.9487C95.8777 74.6481 95.2015 77.0891 93.9247 79.1709C93.5966 79.7059 93.223 80.2171 92.8055 80.7008C91.5064 79.9665 89.9828 79.2372 88.3015 78.595Z" fill="#FF6433"/>
+    <path d="M110.295 59.6154H102.615V65.2051H110.295C112.61 65.2051 114.487 67.0819 114.487 69.3974C114.487 71.7129 112.61 73.5897 110.295 73.5897H102.615V79.1795H110.295C115.697 79.1795 120.077 74.7991 120.077 69.3974C120.077 63.9958 115.697 59.6154 110.295 59.6154Z" fill="#2F2B2A"/>
+  </g>
+  <text x="150" y="84" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Support me on Ko-fi</text>
+  <rect x="656" y="36" width="1" height="68" fill="rgba(255,255,255,0.18)"/>
+  <path d="M694.086 49.5L710 65.4142L725.914 49.5L731.5 55.0858L715.586 71L731.5 86.9142L725.914 92.5L710 76.5858L694.086 92.5L688.5 86.9142L704.414 71L688.5 55.0858L694.086 49.5Z" fill="rgba(255,255,255,0.56)"/>
+  <defs>
+    <filter id="filter0_d_1_1" x="46" y="35" width="90" height="74.7949" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dx="-1" dy="2"/>
+      <feGaussianBlur stdDeviation="6"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1" result="shape"/>
+    </filter>
+    <linearGradient id="paint0_linear_1_1" x1="18" y1="18" x2="742" y2="122" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A77E55"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -116,6 +116,7 @@ export default function KofiButton({
             {label}
           </Text>
         </Pressable>
+        {showClose && useSeparator ? <View style={styles.separator} /> : null}
         {showClose ? (
           <Pressable
             accessibilityRole="button"
@@ -123,7 +124,6 @@ export default function KofiButton({
             onPress={() => setVisible(false)}
             style={({ pressed }) => [
               styles.closeButton,
-              useSeparator && styles.closeButtonSeparated,
               pressed && styles.closeButtonPressed,
             ]}
           >
@@ -191,14 +191,15 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     paddingBottom: 12,
-    paddingLeft: 2,
-    paddingRight: 16,
+    paddingHorizontal: 14,
     paddingTop: 12,
   },
-  closeButtonSeparated: {
-    borderLeftColor: "rgba(255,255,255,0.18)",
-    borderLeftWidth: 1,
-    paddingHorizontal: 14,
+  separator: {
+    alignSelf: "stretch",
+    backgroundColor: "rgba(255,255,255,0.18)",
+    marginBottom: 10,
+    marginTop: 10,
+    width: 1,
   },
   closeButtonPressed: {
     backgroundColor: "rgba(255,255,255,0.08)",

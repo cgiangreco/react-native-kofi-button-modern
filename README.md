@@ -29,7 +29,7 @@ By default, the button renders as a floating pill near the bottom of the screen 
 
 Image preview:
 
-![Image preview](./assets/preview.svg)
+[![preview](./preview.gif)](https://ko-fi.com/cgiangreco)
 
 ## Props
 

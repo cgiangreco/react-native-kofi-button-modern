@@ -1,0 +1,37 @@
+{
+  "name": "react-native-kofi-button-modern",
+  "version": "0.1.0",
+  "description": "A clean, customizable Ko-fi support button for React Native with a floating modern pill UI.",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "react-native",
+    "expo",
+    "kofi",
+    "ko-fi",
+    "button",
+    "support"
+  ],
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.74.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cgiangreco/react-native-kofi-button-modern"
+  }
+}

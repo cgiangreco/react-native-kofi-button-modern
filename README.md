@@ -4,6 +4,10 @@ A clean, customizable Ko-fi support button for React Native with the new rounded
 
 The button includes a dismissible close (X) button by default, which can be disabled.
 
+Image preview:
+
+[![preview](./preview.gif)](https://ko-fi.com/cgiangreco)
+
 ## Installation
 
 ```bash
@@ -26,10 +30,6 @@ export default function App() {
 ```
 
 By default, the button renders as a floating pill near the bottom of the screen with an animated Ko-fi cup icon.
-
-Image preview:
-
-[![preview](./preview.gif)](https://ko-fi.com/cgiangreco)
 
 ## Props
 
